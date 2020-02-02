@@ -57,7 +57,7 @@ Partial Class frmJobTechFair
         '
         Me.lblDetails.AutoSize = True
         Me.lblDetails.Font = New System.Drawing.Font("Tahoma", 11.0!)
-        Me.lblDetails.Location = New System.Drawing.Point(41, 250)
+        Me.lblDetails.Location = New System.Drawing.Point(43, 251)
         Me.lblDetails.Name = "lblDetails"
         Me.lblDetails.Size = New System.Drawing.Size(154, 54)
         Me.lblDetails.TabIndex = 0
